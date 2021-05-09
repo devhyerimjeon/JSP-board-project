@@ -1,5 +1,9 @@
-@import url(http://fonts.googleapis.com/earlyaccess/nanumgothic.css);
-@import url(http://fonts.googleapis.com/earlyaccess/hanna.css);
+@import url('https://fonts.googleapis.com/css2?family=Jua&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Jua&family=Nanum+Gothic&display=swap');
+
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Jua&family=Nanum+Gothic&display=swap" rel="stylesheet">
+
 
 * { font-family: 'Nanum Gothic'; }
-h1 { font-family: 'Hanna''; }
+h1 { font-family: 'Jua'; }
